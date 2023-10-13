@@ -1,0 +1,23 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhananjay19100/console-color.git"
+  },
+  "keywords": ["console-color"],
+  "author": "dhananjay19100@iiitnr.edu.in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhananjay19100/console-color/issues"
+  },
+  "homepage": "https://github.com/dhananjay19100/console-color#readme",
+  "files": ["lib/**/*"]
+}
